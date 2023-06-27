@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Minimal Starter - @nuxtjs/robots 3.0 windows error replica
 
 This repository is a replica of the @nuxtjs/robots package (v3) breaking on the latest version of Nuxt when using @nuxt/kit to install the module.
 
