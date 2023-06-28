@@ -1,10 +1,11 @@
 # Nuxt 3 Minimal Starter - Windows (OS) Error
 
-This repository is a replica of the @nuxtjs/robots package (v3) breaking on the latest version of Nuxt when using @nuxt/kit to install the module.
+This repository is a replica of the @nuxtjs/robots 3.0.0 package breaking on the latest version of Nuxt.
 
-Keep in mind that the error only occurs on Windows machines.
+Keep in mind that the error only occurs on Windows machines, the version I used was 11.
 
 **Error Log**
+
 ```bash
  ERROR  [worker reload] [worker init] Only URLs with a scheme in: file and data are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'c:'
 
